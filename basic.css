@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+}
+
+.basic-content {
+  padding: 40px 15px;
+  text-align: center !important;
+}
+
+#editor { width: 100%; height: 120px;}
